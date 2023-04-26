@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-wishing-to-you/static/css/main.7acaea2f.css",
+    "main.js": "/my-wishing-to-you/static/js/main.031a6385.js",
+    "index.html": "/my-wishing-to-you/index.html",
+    "main.7acaea2f.css.map": "/my-wishing-to-you/static/css/main.7acaea2f.css.map",
+    "main.031a6385.js.map": "/my-wishing-to-you/static/js/main.031a6385.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.031a6385.js"
+  ]
+}
