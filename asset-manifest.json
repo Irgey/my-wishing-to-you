@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-wishing-to-you/static/css/main.aa5f4526.css",
-    "main.js": "/my-wishing-to-you/static/js/main.4522360c.js",
+    "main.js": "/my-wishing-to-you/static/js/main.c42b13bd.js",
     "index.html": "/my-wishing-to-you/index.html",
     "main.aa5f4526.css.map": "/my-wishing-to-you/static/css/main.aa5f4526.css.map",
-    "main.4522360c.js.map": "/my-wishing-to-you/static/js/main.4522360c.js.map"
+    "main.c42b13bd.js.map": "/my-wishing-to-you/static/js/main.c42b13bd.js.map"
   },
   "entrypoints": [
     "static/css/main.aa5f4526.css",
-    "static/js/main.4522360c.js"
+    "static/js/main.c42b13bd.js"
   ]
 }
