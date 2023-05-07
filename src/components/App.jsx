@@ -26,11 +26,14 @@ export const App = () => {
         'url(https://images.pexels.com/photos/5015450/pexels-photo-5015450.jpeg?auto=compress)';
       document.body.style.color = ' #000000';
     } else if (hour > 17 && hour <= 21) {
-      setWish(getRandomWish(eveningWishes));
+      setWish(`${getRandomWish(eveningWishes)}🌙`);
       document.body.style.backgroundImage =
         'url(https://images.pexels.com/photos/14803699/pexels-photo-14803699.jpeg?auto=compress)';
     } else if (hour > 21) {
-      setWish(getRandomWish(nightWishes));
+      setWish(`${getRandomWish(nightWishes)}✨`);
+      document.body.style.backgroundImage =
+        'url(https://images.pexels.com/photos/421129/pexels-photo-421129.jpeg?auto=compress)';
+      // document.body.style.color = ' #21cabe';
     } else {
       setWish(
         'Oh, it`s late night! I hope you go to sleep as soon as possible 🌙✨.'
